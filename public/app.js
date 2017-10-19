@@ -78,7 +78,7 @@ learnjs.problemView = function(data) {
         }
         return false;
     }
-
+ 
     if (problemNumber < learnjs.problems.length) {
         var buttonItem = learnjs.template('skip-btn')
         buttonItem.find('a').attr('href', '#problem-' + (problemNumber + 1));
