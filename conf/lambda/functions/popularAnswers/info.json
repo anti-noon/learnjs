@@ -1,0 +1,17 @@
+{
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    }, 
+    "CodeSha256": "5OHv6+0PebYrdkLBsGaF00ZnLF70nWDYFglN3adlftc=", 
+    "FunctionName": "popularAnswers", 
+    "CodeSize": 826964, 
+    "MemorySize": 512, 
+    "FunctionArn": "arn:aws:lambda:ap-northeast-1:405316802060:function:popularAnswers", 
+    "Version": "1", 
+    "Role": "arn:aws:iam::405316802060:role/learnjs_lambda_exec", 
+    "Timeout": 5, 
+    "LastModified": "2017-10-18T07:48:48.571+0000", 
+    "Handler": "index.popularAnswers", 
+    "Runtime": "nodejs4.3", 
+    "Description": ""
+}
